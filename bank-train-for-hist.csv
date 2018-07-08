@@ -1,4 +1,4 @@
-"age","job","marital","education","default","housing","loan","contact","month","day_of_week","duration","campaign","pdays","previous","poutcome","emp.var.rate","cons.price.idx","cons.conf.idx","euribor3m","nr.employed"
+"age","job","marital","education","default","housing","loan","contact","month","day_of_week","duration","campaign","pdays","previous","poutcome","emp.var.rate","cons.price.idx","cons_conf_idx","euribor3m","nr_employed"
 56,"housemaid","married","basic.4y","no","no","no","telephone","may","mon",261,1,999,0,"nonexistent",1.1,93.994,-36.4,4.857,5191.0
 57,"services","married","high.school","unknown","no","no","telephone","may","mon",149,1,999,0,"nonexistent",1.1,93.994,-36.4,4.857,5191.0
 37,"services","married","high.school","no","yes","no","telephone","may","mon",226,1,999,0,"nonexistent",1.1,93.994,-36.4,4.857,5191.0
