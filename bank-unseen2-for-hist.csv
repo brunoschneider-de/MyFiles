@@ -1,4 +1,4 @@
-"age","job","marital","education","default","housing","loan","contact","month","day_of_week","duration","campaign","pdays","previous","poutcome","emp.var.rate","cons.price.idx","cons.conf.idx","euribor3m","nr.employed"
+"age","job","marital","education","default","housing","loan","contact","month","day_of_week","duration","campaign","pdays","previous","poutcome","emp.var.rate","cons.price.idx","cons_conf_idx","euribor3m","nr_employed"
 40,"blue-collar","married","basic.4y","no","yes","yes","cellular","may","tue",103,2,999,1,"failure",-1.8,92.893,-46.2,1.291,5099.1
 36,"admin.","married","university.degree","no","yes","yes","cellular","may","tue",106,2,999,0,"nonexistent",-1.8,92.893,-46.2,1.291,5099.1
 26,"services","single","university.degree","no","yes","no","cellular","may","tue",25,6,999,0,"nonexistent",-1.8,92.893,-46.2,1.291,5099.1
